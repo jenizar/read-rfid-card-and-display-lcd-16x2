@@ -13,5 +13,4 @@ arduino nano, rfid-rc522 module, rtc ds3231 module, buzzer, rfid card/tag, led 5
 
 demo:
 
-https://www.instagram.com/p/CZ88QvdsRTM/
-
+[![Watch the video](https://www.instagram.com/p/CZ88QvdsRTM/)
